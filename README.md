@@ -1,7 +1,7 @@
 👋 Hello, I'm Nitish! 
 
-<!--
-**nitishmaurya320/nitishmaurya320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
  🚀 About Me
@@ -10,4 +10,3 @@ Here are some ideas to get you started:
 - ⚡ I’m currently pursuing my Btech degree in Computer Science.
 - 🤔 I’m looking for help with ...
 - 💝 Happy To Be On Github and looking forward to learn and contribute with github members altogether
--->
