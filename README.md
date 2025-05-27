@@ -3,16 +3,16 @@
 
 - 🔭 I’m currently working on **Web development and Problem Solving skills(DSA).**
 
-- 💝 Happy To Be On **Github and looking forward to learn and contribute with github members altogether**
-
 - 🌱 I’m enhancing my **React skills now a days.**
 
 - 🌱 I’m currently pursuing **my B.tech degree in Computer Science.**
 
+- - 💝 Happy To Be On **Github and looking forward to learn and contribute with github members altogether**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/nitish-maurya-22726a330" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nitish-maurya-22726a330" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/nitish_34/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/nitish_34/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nitish-maurya-22726a330" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nitish-maurya-22726a330" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/nitish_34/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/nitish_34/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
