@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently pursuing **my B.tech degree in Computer Science.**
 
-- - 💝 Happy To Be On **Github and looking forward to learn and contribute with github members altogether**
+- 💝 Happy To Be On **Github and looking forward to learn and contribute with github members altogether**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
